@@ -1,14 +1,14 @@
 {
-    "name": "dasuneab4/blurb", 
+    "name": "DasunEranga/unyson-shortcode-blurb", 
     "type": "wordpress-plugin",
     "license": ["GPL-2.0"],
     
     "description": "Blurb shortcode for WordPress unyson framework",
     "authors": [
       {
-        "name": "Dasun",
-        "email": "dasunrider4@yahoo.com",
-        "homepage": "https://bitbucket.org/dasuneab4/blurb"
+        "name": "DasunEranga",
+        "email": "dasuneab4@gmail.com",
+        "homepage": "https://github.com/DasunEranga/unyson-shortcode-blurb"
       }
     ],
     "keywords": [
